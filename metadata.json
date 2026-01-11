@@ -1,0 +1,7 @@
+{
+  "name": "Grace Logistics - Warehousing & Supply Chain Excellence",
+  "description": "Professional corporate website for Grace Logistics, a premier warehousing and supply chain management provider with 500,000+ sqft capacity near Nagpur, India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
